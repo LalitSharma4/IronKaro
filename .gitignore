@@ -1,0 +1,30 @@
+# Virtual Environment
+MyEnv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment Variables
+.env
+
+# SQLite Database
+db.sqlite3
+
+# Media Files
+media/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
